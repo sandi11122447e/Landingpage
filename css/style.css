@@ -43,7 +43,7 @@ body{
 }
 
 .page1{
-    background-image: url(lesehan.jpg.webp);
+    background-image: url(..img/lesehan.jpg.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -141,7 +141,7 @@ img{
     font-size: 20px;
 }
 .main3{
-    background-image: url(tempat_makan_lesehan_di_jakarta_05_a92e30c809.webp);
+    background-image: url(..img/tempat_makan_lesehan_di_jakarta_05_a92e30c809.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -170,4 +170,5 @@ img{
     justify-content: center;
     display: flex;
     color: black;
+
 }
